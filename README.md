@@ -15,3 +15,4 @@ python scraper.py
 
 これにより、スクレイピングされたデータが`featured_article.txt`ファイルに保存されます
 
+# GPT-
